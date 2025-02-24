@@ -1,3 +1,4 @@
 # Run-Deepseek-Locally-Free
 
-### 1 - Run Locally Deepseek-R1 Version 1.5Bilion Paramter: 
+### 1 Deepseek-R1 Version 1.5Bilion Paramter: 
+  Command Run: _ollama run deepseek-r1:1.5b _
