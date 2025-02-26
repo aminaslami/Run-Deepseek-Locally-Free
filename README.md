@@ -10,6 +10,6 @@ Command Run: https://ollama.com/library/deepseek-r1:1.5b
 
 ### 2) Deepseek-R1 Version 7 Bilion Parameter:
 
-Command Run:
+Command Run: https://ollama.com/library/deepseek-r1:7b
 
     ollama run deepseek-r1:7b
