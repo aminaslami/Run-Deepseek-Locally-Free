@@ -1,5 +1,7 @@
 # Run-Deepseek-Locally-Free
 
+How run Deepseek (Youtube) video:
+
 ### 1) Deepseek-R1 Version 1.5 Bilion Parameter:
 
 Command Run:
