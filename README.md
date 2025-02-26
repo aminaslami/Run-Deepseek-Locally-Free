@@ -4,7 +4,7 @@ How run Deepseek (Youtube) video: https://youtu.be/6Sq2t3j9Gc4
 
 ### 1) Deepseek-R1 Version 1.5 Bilion Parameter:
 
-Command Run:
+Command Run: https://ollama.com/library/deepseek-r1:1.5b
     
     ollama run deepseek-r1:1.5b
 
