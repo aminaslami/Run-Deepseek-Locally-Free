@@ -1,4 +1,4 @@
-# Run Deepseek-1 Locally Free
+# Run Deepseek-R1 Locally Free
 
 How run Deepseek (Youtube) video: https://youtu.be/6Sq2t3j9Gc4
 
