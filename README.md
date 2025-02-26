@@ -14,3 +14,5 @@ Command Run: https://ollama.com/library/deepseek-r1:7b
 
     ollama run deepseek-r1:7b
 ------------------------------------------------------
+Source: 
+
