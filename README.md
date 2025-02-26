@@ -16,3 +16,4 @@ Command Run: https://ollama.com/library/deepseek-r1:7b
 ------------------------------------------------------
 Source: 
 
+![image](https://github.com/user-attachments/assets/4da4a56b-4716-41d7-a6b8-d743cf6a8fc4)
